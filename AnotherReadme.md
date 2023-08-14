@@ -1,0 +1,2 @@
+#Another useful instruction 
+- So you have opened you folder on the vS code , you made changes and you did git push but git is unable to find which repo you have pushed your own changes so for that you will use this command "git remote add origin ssh link"
